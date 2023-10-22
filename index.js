@@ -118,3 +118,5 @@ for (var item of products.data) {
     btn.innerText = "Thêm vào giỏ hàng"
 
 }
+
+
